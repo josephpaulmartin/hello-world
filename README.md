@@ -1,3 +1,5 @@
 # hello-world
 
-OK so this is the master branch atm.
+My first repository
+
+I'm Joseph. I'm enjoying using GitHub.
